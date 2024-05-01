@@ -35,7 +35,7 @@ dox = [ "gtk/dox" ]
 tray = [ "libappindicator", "dirs-next" ]
 
 [build-dependencies]
-cc = "1"
+cc = "1.0.96"
 
 [dependencies]
 instant = "0.1"
